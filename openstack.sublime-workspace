@@ -1,0 +1,732 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ss",
+				"ssids_select"
+			],
+			[
+				"datet",
+				"datetime_fmt"
+			],
+			[
+				"val",
+				"valid_user_agents_regex"
+			],
+			[
+				"cl",
+				"client_name"
+			],
+			[
+				"campa",
+				"campaign_name"
+			],
+			[
+				"bind",
+				"bindValue"
+			],
+			[
+				"campai",
+				"campaign_service_set"
+			],
+			[
+				"installaio",
+				"installation_method_name"
+			],
+			[
+				"instal",
+				"installation_method"
+			],
+			[
+				"requi",
+				"required_resource_url_regex"
+			],
+			[
+				"insal",
+				"installation_method_name"
+			],
+			[
+				"installatio",
+				"installation_method"
+			],
+			[
+				"inst",
+				"installation_method_name"
+			],
+			[
+				"install",
+				"installation_method"
+			],
+			[
+				"get_inst",
+				"get_installation_methods"
+			],
+			[
+				"time",
+				"timeout_london"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"content",
+				"content_div"
+			],
+			[
+				"get_ap",
+				"get_apps"
+			],
+			[
+				"fe",
+				"kent-federated-april"
+			],
+			[
+				"installation",
+				"installation_method_name"
+			],
+			[
+				"street",
+				"streetwifi_trial"
+			],
+			[
+				"asser",
+				"assertEquals"
+			],
+			[
+				"user",
+				"user_handles"
+			],
+			[
+				"camp",
+				"campaign_name"
+			],
+			[
+				"req",
+				"required_resource_url_regexes"
+			],
+			[
+				"end",
+				"end_time_exclusive"
+			],
+			[
+				"start",
+				"start_time_inclusive"
+			],
+			[
+				"star",
+				"start_time_inclusive"
+			],
+			[
+				"app",
+				"app_name"
+			],
+			[
+				"installation_metho",
+				"installation_method_name"
+			],
+			[
+				"rad",
+				"radius_client"
+			],
+			[
+				"ana",
+				"analytics_service"
+			],
+			[
+				"ca",
+				"captive_portal"
+			],
+			[
+				"capt",
+				"captive_portal_api"
+			],
+			[
+				"MAC",
+				"MAC_MAX"
+			],
+			[
+				"product",
+				"product_name"
+			],
+			[
+				"purchase",
+				"purchase_id"
+			],
+			[
+				"purch",
+				"purchase_id"
+			],
+			[
+				"pur",
+				"purchase_id"
+			],
+			[
+				"prox",
+				"proxy_protocol_domain_and_port"
+			],
+			[
+				"installed",
+				"installed_timestamp"
+			],
+			[
+				"campaign",
+				"campaign_name"
+			],
+			[
+				"addRoute",
+				"addRouteMethod"
+			],
+			[
+				"app_",
+				"app_install_service"
+			],
+			[
+				"sftp_",
+				"sftp_dirpath"
+			],
+			[
+				"local",
+				"local_filepath"
+			],
+			[
+				"batc",
+				"batch_file_handle"
+			],
+			[
+				"csv_",
+				"csv_filepath"
+			],
+			[
+				"downl",
+				"download_count"
+			],
+			[
+				"installing",
+				"installing_timestamp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jhf/dev/Apsley/apsley/lib/test/Testing.php",
+		"/home/jhf/dev/Apsley/apsley/admin_api/test/test.php",
+		"/home/jhf/dev/Apsley/apsley/admin_api/apsley-admin-api.conf",
+		"/home/jhf/dev/Apsley/apsley/admin_api/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/admin/apsley-admin.conf",
+		"/home/jhf/dev/Apsley/apsley/admin_api/app/index.php",
+		"/home/jhf/dev/Apsley/apsley/proxy/squid.conf",
+		"/home/jhf/dev/Apsley/apsley/db/schema.sql",
+		"/home/jhf/dev/Apsley/apsley/admin/app/.bowerrc",
+		"/home/jhf/dev/Apsley/apsley/admin/.gitignore",
+		"/home/jhf/dev/Apsley/apsley/admin/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/admin/app/index.htm",
+		"/home/jhf/dev/Apsley/apsley/admin/app/bower.json",
+		"/home/jhf/dev/Apsley/apsley/admin/app/app.htm",
+		"/home/jhf/dev/Apsley/apsley/admin/app/assets/css/admin-ui.css",
+		"/home/jhf/dev/Apsley/apsley/admin/app/assets/js/admin-ui-app.js",
+		"/home/jhf/dev/experiments/sel/index.htm",
+		"/home/jhf/dev/Apsley/apsley/admin/app/assets/bower.json",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/application/models/commit_model.php",
+		"/home/jhf/dev/Apsley/apsley/db/undo.sql",
+		"/home/jhf/dev/Apsley/apsley/db/test/clear.php",
+		"/home/jhf/dev/Apsley/apsley/db/test/test.php",
+		"/home/jhf/dev/Apsley/apsley/db/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/admin_api/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/admin/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/proxy/test/test.php",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/application/config/template.php",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/application/views/dashboard.php",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/application/views/templates/frontend/index.php",
+		"/home/jhf/dev/Apsley/apsley/admin/app/assets/js/admin-ui.js",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/application/views/index.html",
+		"/home/jhf/dev/Apsley/apsley/admin/index.htm",
+		"/home/jhf/dev/Apsley/apsley/admin_api/logstash-forwarder-conf.json",
+		"/home/jhf/dev/Apsley/apsley/installed_api/app/index.php",
+		"/home/jhf/dev/openstack/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/proxy/app/index.php",
+		"/home/jhf/dev/Apsley/apsley/lib/Router.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/admin_api/app/test/test.php",
+		"/home/jhf/dev/Apsley/apsley/lib/test/Router.php",
+		"/home/jhf/dev/Apsley/apsley/mama/app/index.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/index.php",
+		"/home/jhf/dev/Apsley/apsley/proxy/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/db/test/bug.sh",
+		"/home/jhf/.bashrc",
+		"/home/jhf/dev/Apsley/apsley/db/test/schema2.sql",
+		"/home/jhf/dev/Apsley/apsley/db/test/test2.php",
+		"/home/jhf/dev/Apsley/apsley/installed_api/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/index.md",
+		"/home/jhf/dev/Apsley/apsley/db/queries.sql",
+		"/home/jhf/dev/Apsley/apsley/installed_api/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/docs/Makefile",
+		"/home/jhf/dev/Apsley/apsley/docs/.gitignore",
+		"/home/jhf/dev/Apsley/apsley/docs/architecture.png",
+		"/home/jhf/dev/Apsley/apsley/installed_api/index.php",
+		"/home/jhf/dev/Apsley/apsley/installed_api/SPEC.md",
+		"/home/jhf/dev/Apsley/apsley/installed_api/logstash-forwarder-conf.json",
+		"/home/jhf/dev/Apsley/apsley/README.md",
+		"/home/jhf/dev/Apsley/apsley/docs/architecture.dot",
+		"/home/jhf/dev/WiFiZoneReimplementation/how_everything_works/how_everything_works.md",
+		"/home/jhf/.ssh/config",
+		"/home/jhf/dev/Apsley/apsley/lib/MAC.php",
+		"/home/jhf/dev/Apsley/apsley/installed_api/app/composer.json",
+		"/home/jhf/dev/Apsley/apsley/mama/SPEC.md",
+		"/home/jhf/dev/Apsley/apsley/proxy/test/composer.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/app_device_state.php",
+		"/home/jhf/dev/Apsley/apsley/lib/Models.php",
+		"/home/jhf/dev/Apsley/apsley/lib/test/MAC.php",
+		"/home/jhf/dev/Apsley/apsley/mama/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/proxy/SPEC.md",
+		"/home/jhf/dev/Apsley/apsley/installed_api/apsley-install-api.conf",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/apsley-captive-portal-api.conf",
+		"/home/jhf/dev/Apsley/apsley/installed_api/app/install.php",
+		"/home/jhf/dev/openstack/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/.git/config",
+		"/home/jhf/dev/openstack/.git/config",
+		"/home/jhf/dev/openstack/BUGS.md.",
+		"/home/jhf/dev/openstack/run_stack.sh",
+		"/home/jhf/dev/Apsley/apsley/proxy/test/test2.php",
+		"/home/jhf/dev/Apsley/apsley/proxy/apsley-proxy-api.conf",
+		"/home/jhf/dev/Apsley/apsley/proxy/logstash-forwarder-conf.json",
+		"/home/jhf/dev/Apsley/apsley/proxy/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/mama/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/mama/logstash-forwarder-conf.json",
+		"/home/jhf/dev/Apsley/apsley/mama/mama-api.conf",
+		"/home/jhf/dev/Apsley/apsley/mama/README.md",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/test/FileParserTest.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/Router.php",
+		"/home/jhf/dev/Apsley/apsley/proxy/whitelist.txt",
+		"/home/jhf/dev/Apsley/apsley/proxy/test/ansi-color.php",
+		"/home/jhf/dev/Apsley/apsley/proxy/test/test.sh",
+		"/home/jhf/dev/Apsley/apsley/.gitignore",
+		"/home/jhf/dev/Apsley/apsley/proxy/app/squid_reload.sh",
+		"/home/jhf/dev/Apsley/apsley/logstash/bootstrap.sh",
+		"/home/jhf/dev/Apsley/apsley/logstash/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/kibana/Vagrantfile",
+		"/home/jhf/dev/Apsley/apsley/logstash/logstash.conf",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/logs/error.log",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/schemas/app_device.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/MAC.php",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/assets/schema/status.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/spec/index.md",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/DB.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/schemas/app_device/tests/ok/installing.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/schemas/app_device/tests/ok/installed.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/app/schemas/app_device/tests/ok/unknown.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/spec/app_device.json",
+		"/home/jhf/dev/FinancePortal/finance_portal_rc1/index.php",
+		"/home/jhf/dev/Apsley/apsley/sql/schema.sql",
+		"/home/jhf/dev/Apsley/apsley/composer.json",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/.htaccess",
+		"/var/log/apache2/error.log",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/DB.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/API.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/HW.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/test.php",
+		"/home/jhf/dev/Apsley/apsley/captive_portal_api/Router.php",
+		"/home/jhf/dev/Apsley/apsley/phinx.yml",
+		"/home/jhf/dev/Apsley/apsley/sql/migrations/20140324154329_initialmigration.php",
+		"/home/jhf/dev/Apsley/apsley/sql/undo.sql",
+		"/home/jhf/dev/AppDownloadPlatform/app_download_service/installed_api/index.php",
+		"/home/jhf/dev/AppDownloadPlatform/app_download_service/admin_api/index.php",
+		"/home/jhf/dev/AppDownloadPlatform/app_download_service/.git/config",
+		"/home/jhf/dev/AppDownloadPlatform/app_download_service/README.md",
+		"/home/jhf/dev/AppDownloadPlatform/app_download_service/index.md",
+		"/home/jhf/dev/AppDownloadPlatform/app_download_service/captive_portal_api/log_installing.php",
+		"/var/log/apache2/access.log"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"    ",
+			"Delete",
+			"delete",
+			"DUPLIC",
+			"$ssid_stmt",
+			"campaign_service_set",
+			"installation_method",
+			"client",
+			"user",
+			"owner_username",
+			"$user_handles['root']",
+			"\\$handle",
+			"\\$handler",
+			"body",
+			"/home/vagrant/keystone/keystone/federated-docs/example-keystone.conf",
+			"/home/vagrant/keystone/federated-docs/example-keystone.conf",
+			"@localhost",
+			"end_time_exclusive",
+			"start_time_inclusive",
+			"time",
+			"unix_end_time_exclusive",
+			"unix_start_time_inclusive",
+			"installed_timestamp",
+			"installing_timestamp",
+			"time",
+			"end_time_exclusive",
+			"start_time_inclusive",
+			"              ",
+			"date",
+			"DATETIME       ",
+			"DATETIME",
+			"\\bTIMESTAMP\\b",
+			"apsle2",
+			"apsley2",
+			"db",
+			"campaign",
+			"end_time_exclusive",
+			"start_time_inclusive",
+			"campaign_name",
+			"  ",
+			"\\n",
+			"$user_handles['root']",
+			"(\n",
+			"PS1",
+			"CREATE USER",
+			"apsley2_",
+			"apsley_",
+			"start_time_inclusive",
+			"must be <=",
+			"whitel",
+			"Gateway",
+			"gateway",
+			"another_external_device",
+			"db",
+			"no resour",
+			"mac",
+			")\n",
+			"product_name",
+			"view",
+			"Dummy",
+			"product",
+			"response",
+			"body",
+			"'c'",
+			"':'",
+			"'m'",
+			"\\*",
+			"routePath",
+			"addRoute",
+			"\\$device",
+			"PHP_INT_MAX",
+			"'v'",
+			"\\$value",
+			"\\$key",
+			"keys",
+			"\\$handle",
+			"jhf@jhfdev:~/dev/Apsley/apsley/db",
+			"mysql",
+			"urlroute",
+			"methodroute",
+			"route",
+			"    ",
+			"campaign_service_set",
+			"campaign_ssid",
+			"app install",
+			"The app install service",
+			"apsley_admin",
+			"app_install_service",
+			"app_install_service\\.",
+			"getRealmList",
+			"\\$handle",
+			"$handle",
+			"csv_file",
+			"local_filename",
+			"csv_filename",
+			"csv_dirpath",
+			"csv_filepath",
+			"server_ip",
+			"‘",
+			"sql",
+			"csv_filepath",
+			"db_name",
+			"db_pass",
+			"db_user",
+			"server_ip",
+			"#",
+			"csv_file",
+			"“",
+			"”",
+			"’",
+			"max_installs",
+			"installed_count",
+			"max_downloads",
+			"install_count",
+			"download_count",
+			"sensit",
+			"-- ----------------------------------------------------------------------------",
+			"-- ------------------------------------------------------------------------- --",
+			"-------------------------------------------------------------------------------",
+			"fk_campaign_app_name",
+			"download",
+			"\\t",
+			"exclud",
+			"(\\d{2})/(\\d{2})/(\\d{4}) (\\d{2}):(\\d{2})",
+			"\n",
+			"SPECTRUM",
+			"STCANC "
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"$ssid_delete",
+			"campaign",
+			"client",
+			"$handle",
+			"$db",
+			"/home/vagrant/keystone/federated-docs/example-keystone.conf\n/home/vagrant/keystone/federated-docs/example-keystone.conf",
+			"/home/vagrant/keystone/keystone/federated-docs/example-keystone.conf",
+			"",
+			"end_time_exclusive_unix_timestamp",
+			"start_time_inclusive_unix_timestamp",
+			"end_time_exclusive_unix_timestamp",
+			"start_time_inclusive_unix_timestamp",
+			"installed_unix_timestamp",
+			"installing_unix_timestamp",
+			"unix_end_time_exclusive",
+			"unix_start_time_inclusive",
+			"BIGINT UNSIGNED",
+			"DATETIME",
+			"db",
+			"tbl",
+			"t2",
+			"t1",
+			"foo",
+			" ",
+			"",
+			"$handle",
+			"DROP USER IF EXISTS",
+			"apsle2_",
+			"apsley2_",
+			"RADIUS client",
+			"radius_client",
+			"external_device",
+			"apsley_db",
+			"'children'",
+			"'kleene'",
+			"'methods'",
+			":",
+			"routePathMethod",
+			"addResource",
+			"$mac",
+			"pow(2, 32)",
+			"'m'",
+			"$handler",
+			"$pc",
+			"pcs",
+			"$this->handle",
+			"",
+			"url_route",
+			"method_route",
+			"urlroute",
+			"  ",
+			"campaign_service_set",
+			"Apsley",
+			"apsley_report",
+			"apsley",
+			"",
+			"\\$db_handle",
+			"$db_handle",
+			"local_file_handle",
+			"filename",
+			"local_filename",
+			"local_dirpath",
+			"local_filepath",
+			"db_host",
+			"'",
+			"$sql",
+			"$csv_filepath",
+			"$db_name",
+			"$db_pass",
+			"$db_user",
+			"$server_ip",
+			"// ",
+			"csv_filepath",
+			"\"",
+			"'",
+			"max_installations",
+			"installation_count",
+			"max_installs",
+			"installed_count",
+			"install_count",
+			"-- ------------------------------------------------------------------------- --",
+			"-- ----------------------------------------------------------------------------",
+			"install",
+			" | ",
+			"$3-$2-$1 $4:$5:00",
+			"",
+			" |",
+			"| ",
+			"",
+			" | ",
+			"\\n\\n",
+			"captive portal",
+			"/api/",
+			"12/2013",
+			"\"",
+			"* ",
+			"[TAB]",
+			"06/2013",
+			"2.08",
+			"EUR",
+			"\"$1\", ",
+			"\"$1\",",
+			"01/12/2013",
+			"EUR",
+			" |",
+			"| ",
+			" | ",
+			"\\n",
+			" |",
+			" | ",
+			" |",
+			"| ",
+			" | ",
+			" |",
+			"| ",
+			" |",
+			" | ",
+			"| ",
+			"\\\\n",
+			"null",
+			"\"",
+			"null",
+			"\"",
+			"null",
+			"\"",
+			"\\\\\"",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
